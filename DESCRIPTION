@@ -1,0 +1,16 @@
+Package: teesR
+Title: Resources for R Modules At Teesside University
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Christopher",
+           family = "Wilson",
+           role = c("aut", "cre"),
+           email = "christopher.wilson@tees.ac.uk",
+           comment = c(ORCID = "0000-0002-7155-0662"))
+Description: Slides, worksheets, code and tests from R modules.
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
+Imports:
+  learnr
+RoxygenNote: 6.1.1
