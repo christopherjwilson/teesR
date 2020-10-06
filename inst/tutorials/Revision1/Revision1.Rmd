@@ -49,6 +49,7 @@ go to the store,” and “I will try to reduce my sugar consumption.”).
 ## Working with data
 
 The following packages have been preloaded into this exercise:
+
   - psych
   - tidyverse (includes dplyr, ggplot etc.)
 
